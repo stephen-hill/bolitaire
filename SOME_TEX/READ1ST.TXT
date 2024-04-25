@@ -1,0 +1,69 @@
+Bolitaire 0.63a 18th Mar 2005
+-----------------------------
+   __  __
+  \  \/ / 
+   \ / /   ___   __     __    __      ___   __  ___  __          __    __   __
+    | |      /  |  |  |/  |  |_      \__   |  |  |  |_   |   |  /__\  |__| |_
+    |_|    /__  |__|  |   |  |__      __/  |__|  |  |    \/\/   |  |  | \  |__
+
+   yzonesoft@yahoo.com                              Copyright (C) 2005  Yogesh       
+   http://yzonesoft.buildtolearn.net
+
+Copyright (C) 2005  Yogesh
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
+
+
+Known Bugs
+-----------
+for bug list and how to report bugs refer common bug report.
+
+
+Blah stuff
+-----------
+There are three easter eggs which can be invoked by pressing F2 at some place, In which one is a different game where all the cards are hidden and you can see the cards when only you move it.       
+
+
+
+Installation :
+---------------
+
+    Windows user simply run the setup file if you download setup file. If you 
+got a zip file then extract it to a folder and run bolitaire.exe. if it asks
+for alleg41.dll download it and extract it to drive:/windows/system.    
+
+
+    To create the boot floppy you need boot_fd_bolitaire.imz and a floppy, 
+then extract these files to a fresh floppy using softwares like WinImage or 
+folppyimage(freeware). Now, boot with that floppy to enjoy freecell.
+
+
+    Dos users unzip the program to a seperate folder,then execute the program 
+from there. you will require mouse(like cute mouse) support for dos. You will
+also need cwsdpmi if you run bolitaire in real mode dos (ie DOS as OS and not
+dos box or command prompt)
+    
+
+    Linux user unzip the program to a seperate folder,then execute bolitaire from
+there. If it asks for liballeg.so.4.1 then download it and copy it to 
+/usr/local/lib or /usr/lib.
+
+
+    BeOS user unzip the program to a seperate folder, then execute bolitaire from
+there. If it asks for liballeg.so.4.1(for BeOS) then download it and copy it to 
+/boot/home/config/lib.     
+
+Note: Use allegro-4.1.18, other versions less than 4.1.18 will not work.
+
+

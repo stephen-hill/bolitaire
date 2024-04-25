@@ -1,0 +1,24 @@
+Bolitaire 0.63a 18th Mar 2005
+----------------------------
+
+
+Who and why created Bolitaire ?
+    Bolitaire was created by Yzone software. It was created because
+its author wants to develope some high quality software.
+
+
+What is Yzone software ?
+    Yzone software is the name under which I publish my software.
+
+
+What is Bolitaire ?
+    Bolitaire is a free freecell clone for dos,windows and linux. The look and
+feel of the game is much similar to MS freecell game. It just got better with a 
+addition of mp3 player and background selection,
+
+
+Where is its sourcecode ?
+     Bolitaire source code has been released under GNU GPL licence. I speculate that some people will bring improvement to the code or learn something from the code. 
+
+
+     
